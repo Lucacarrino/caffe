@@ -1,0 +1,12 @@
+{
+  "build": {
+    "builder": "python3",
+    "dependencies": [
+      "gcc",
+      "postgresql"
+    ]
+  },
+  "env": {
+    "DJANGO_SETTINGS_MODULE": "caffe.Giornalino.giornalino.settings"
+  }
+}
