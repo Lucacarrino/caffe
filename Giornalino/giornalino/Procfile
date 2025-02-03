@@ -1,1 +1,1 @@
-web: gunicorn giornalino.wsgi
+web: gunicorn caffe.Giornalino.giornalino.wsgi:application
