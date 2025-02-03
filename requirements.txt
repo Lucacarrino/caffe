@@ -3,3 +3,4 @@ gunicorn
 whitenoise
 psycopg2
 django-ckeditor
+dj_database_url
