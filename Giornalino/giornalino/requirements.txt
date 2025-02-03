@@ -1,7 +1,7 @@
 Django>=4.0,<5.0
 gunicorn
 dj-database-url
-psycopg2  # Se usi PostgreSQL
-whitenoise  # Per servire statici in produzione
-django-environ  # Per gestire variabili d'ambiente
+psycopg2
+whitenoise
+django-environ
 django-ckeditor
